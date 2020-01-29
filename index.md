@@ -1,6 +1,6 @@
-## (e)SpEcIES
+## (e)SpEcIEs
 
-### ¿Qué es (e)SpEcIES?
+### ¿Qué es (e)SpEcIEs?
 
 SpEcIEs viene de **S**istema **p**ara la **E**xplora**c**ión de **I**nformación **Es**pacial. Es una herramienta para analizar grandes bases de datos de ocurrencias de especies. Con SpEcIEs queremos ofrecer una nueva perspectiva sobre este tipo de información que ayude a entenderla como un sistema donde se entrelazan todos los organismos descritos en la base de datos. 
 
