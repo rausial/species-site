@@ -14,4 +14,4 @@ Tenemos dos modalidades, la primera permite analizar un organismo focal desde la
 
 [![Modo especie focal](niche-screenshot.png "Modo especie focal")][ss1]
 
-[ss1]: niche-screenshot.png
+[ss1]: http://species.conabio.gob.mx/dbdev/geoportal_v0.1.html
