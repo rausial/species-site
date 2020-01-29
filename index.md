@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## (e)SpEcIES
 
-You can use the [editor on GitHub](https://github.com/rausial/species-site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### ¿Qué es (e)SpEcIES?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+SpEcIEs viene de *S*istema *p*ara la *E*xplora*c*ión de *I*nformación *Es*pacial. Es una herramienta para analizar grandes bases de datos de ocurrencias de especies. Con SpEcIEs queremos ofrecer una nueva perspectiva sobre este tipo de información que ayude a entenderla como un sistema donde se entrelazan todos los organismos descritos en la base de datos. 
 
-### Markdown
+### ¿A quién está dirigido el proyecto?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Inicialmente está dirigido a personas que ya usan este tipo de información, más adelante esperamos que sea una herrmienta para explorar no sólo los datos sino que sirva como herrmienta de divulgación para acercarnos a la complejidad de los sistemas ecológicos y su estudio.
 
-```markdown
-Syntax highlighted code block
+### ¿Cómo uso SpEcIEs?
 
-# Header 1
-## Header 2
-### Header 3
+Tenemos dos modalidades, la primera permite analizar un organismo focal desde la perspectiva de su relación con otros organismos y otras variables abioticas como el clima. Para usar ese modo sólo sigue la siguiente liga:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rausial/species-site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![http://species.conabio.gob.mx/dbdev/geoportal_v0.1.html](niche-screenshot.png)
