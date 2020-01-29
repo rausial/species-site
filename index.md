@@ -12,6 +12,13 @@ Inicialmente está dirigido a personas que ya usan este tipo de información, m�
 
 Tenemos dos modalidades, la primera permite analizar un organismo focal desde la perspectiva de su relación con otros organismos y otras variables abioticas como el clima. Para usar ese modo sólo sigue la siguiente liga:
 
-[![Modo especie focal](niche-screenshot.png "Modo especie focal")][ss1]
+[![Modo especie focal](images/niche-screenshot.png "Modo especie focal")][niche_screen]
 
-[ss1]: http://species.conabio.gob.mx/dbdev/geoportal_v0.1.html
+El otro modo es más representativo de la complejidad de la información que contienen estas bases de ocurrencias de especies. En este modo puedes construir redes de relaciones entre grupos de organismos, o también entre organismos y variables abioticas. Para usar este modo sigue la siguiente liga:
+
+[![Modo redes](images/graph-screenshot.png "Modo redes")][graph_screen]
+
+
+
+[niche_screen]: http://species.conabio.gob.mx/dbdev/geoportal_v0.1.html
+[graph_screen]: http://species.conabio.gob.mx/dbdev/comunidad_v0.1.html
