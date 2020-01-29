@@ -2,7 +2,7 @@
 
 ### ¿Qué es (e)SpEcIES?
 
-SpEcIEs viene de *S*istema *p*ara la *E*xplora*c*ión de *I*nformación *Es*pacial. Es una herramienta para analizar grandes bases de datos de ocurrencias de especies. Con SpEcIEs queremos ofrecer una nueva perspectiva sobre este tipo de información que ayude a entenderla como un sistema donde se entrelazan todos los organismos descritos en la base de datos. 
+SpEcIEs viene de **S**istema **p**ara la **E**xplora**c**ión de **I**nformación **Es**pacial. Es una herramienta para analizar grandes bases de datos de ocurrencias de especies. Con SpEcIEs queremos ofrecer una nueva perspectiva sobre este tipo de información que ayude a entenderla como un sistema donde se entrelazan todos los organismos descritos en la base de datos. 
 
 ### ¿A quién está dirigido el proyecto?
 
@@ -12,4 +12,6 @@ Inicialmente está dirigido a personas que ya usan este tipo de información, m�
 
 Tenemos dos modalidades, la primera permite analizar un organismo focal desde la perspectiva de su relación con otros organismos y otras variables abioticas como el clima. Para usar ese modo sólo sigue la siguiente liga:
 
-![http://species.conabio.gob.mx/dbdev/geoportal_v0.1.html](niche-screenshot.png)
+[![Modo especie focal](niche-screenshot.png "Modo especie focal")][ss1]
+
+[ss1]: niche-screenshot.png
